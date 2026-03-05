@@ -9,7 +9,7 @@ This is a Django project to manage a library system. It includes the basics of D
 - User-friendly admin interface
 - SQLite database for simplicity
 
-## Installation
+## Installation procedure
 
 1. Create a virtual environment and activate it.
 2. Install requirements using `pip install -r requirements.txt`.
