@@ -16,6 +16,6 @@ This is a Django project to manage a library system. It includes the basics of D
 3. Run migrations with `python manage.py migrate`.
 4. Start the development server using `python manage.py runserver`.
 
-## Usage
+### Usage
 
 Open your browser and navigate to `http://localhost:8000/` to use the app.
