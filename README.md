@@ -1,4 +1,4 @@
-# LibraryProjectAssignment
+# Library-Project
 
 This is a Django project to manage a library system. It includes the basics of Django setup, models, CRUD operations, and the admin interface.
 
